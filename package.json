@@ -1,0 +1,17 @@
+{
+  "name": "trying-excel-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "multer": "^1.4.4",
+    "read-excel-file": "^5.2.28",
+    "xlsx": "^0.18.4"
+  }
+}
